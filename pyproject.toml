@@ -24,7 +24,7 @@ classifiers = [
     "Programming Language :: Python :: 3.14",
 ]
 dependencies = [
-    "coreforecast>=0.0.17",
+    "coreforecast>=0.0.20",
     "fsspec",
     "numpy>=1.23.2",
     "pandas>=2.3.3",
